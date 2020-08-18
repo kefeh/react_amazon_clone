@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 70,
+    "emmet.extensionsPath": "",
+    "emmet.triggerExpansionOnTab": true
+}
