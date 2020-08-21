@@ -1,0 +1,16 @@
+.checkout__contain{
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+}
+
+.chechout_ad {
+    width: 100%;
+}
+
+.checkout__empty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
